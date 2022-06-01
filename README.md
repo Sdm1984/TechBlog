@@ -114,5 +114,5 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the functional, deployed Heroku application -
 
-* The URL of the GitHub repository, with a unique name and a readme describing the project -
+* The URL of the GitHub repository, with a unique name and a readme describing the project -https://github.com/Sdm1984/TechBlog
 
