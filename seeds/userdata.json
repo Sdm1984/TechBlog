@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Steph",
+        "email": "steph@step.com",
+        "password": "$2b$10$Y3Gzwfvi9FPGuHLh.7km0eBTlNBeSxllNnGsKIzMsJmmsh3UwCFRq"
+    },
+    {
+        "id": 2,
+        "name": "Britt",
+        "email": "britt@britt.com",
+        "password": "$2b$10$wONRlUhQ8TRj29bWb3ltl.zJNROAISty9UhIkX1GOlmE2vMYszRG."
+    }
+]
