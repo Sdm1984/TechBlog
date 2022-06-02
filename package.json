@@ -1,7 +1,7 @@
 {
   "name": "techblog",
   "version": "1.0.0",
-   "engines": {
+  "engines": {
     "npm": "8.3.1",
     "node": "16.14.0"
   },
@@ -33,4 +33,3 @@
     "sequelize": "^6.20.1"
   }
 }
-
