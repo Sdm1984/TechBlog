@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Stephanie's Tech Blog</title>
   <link rel="stylesheet" href="/public/css/style.css">
-  <link rel="stylesheet" href="/public/css/style.css">
+  <link rel="stylesheet" href="/css/jass.css">
 </head>
 
 <body>
@@ -15,9 +15,9 @@
       <nav class="display-flex">
         <!-- Conditionally render login or logout links -->
         {{#if logged_in}}
-        <h2><a href="/">Home</a></h2>
-        <h2><a href="/dashboard">Dashboard</a></h2>
-        <h2><a href="/" id="logout">Logout</a></h2>
+        <h3><a href="/">Home</a></h3>
+        <h3><a href="/dashboard">Dashboard</a></h3>
+        <h3><a href="/" id="logout">Logout</a></h3>
         {{else}}
         <h2><a href="/">Home</a></h2>
         <h2><a href="/login">Dashboard</a></h2>
